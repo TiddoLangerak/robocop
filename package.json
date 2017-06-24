@@ -1,6 +1,6 @@
 {
   "name": "robocop",
-  "version": "0.0.1",
+  "version": "0.0.1m",
   "description": "",
   "main": "index.js",
   "scripts": {
